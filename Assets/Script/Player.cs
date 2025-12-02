@@ -4,6 +4,7 @@ public class Player : MonoBehaviour
 {
 
     private float movement = 0f;
+    public float moveSpeed = 5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,7 +21,7 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        transform.position += new Vector3(movement, 0f, 0f) * Time.fixedDeltaTime;
+        transform.position += new Vector3(movement, 0f, 0f) * Time.fixedDeltaTime * moveSpeed;
         
 
     }
