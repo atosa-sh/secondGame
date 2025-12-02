@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
     public float jumpHight = 5f;
     private float movement = 0f;
     public float moveSpeed = 5f;
+    public bool isGround = true;
     private bool facingRight = true;
 
 
@@ -30,8 +31,9 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0f, 0f, 0f);
             facingRight = true;
         }
-        if (Input.GetKey(KeyCode.Space)){
+        if (Input.GetKey(KeyCode.Space) && isGround){
             Jump();
+            isGround = false;
         }
     }
 
@@ -41,9 +43,20 @@ public class Player : MonoBehaviour
 
 
     }
-    
+
     void Jump()
     {
         rb.AddForce(new Vector2(0f, jumpHight), ForceMode2D.Impulse);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Ground")
+        {
+            isGround = true;
+            Debug.Log(collision.gameObject.name);
+        }
+        
+
     }
 }
