@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 35bfdbc828beb49b28698409d1677185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1834681778443020682
+    second: HeroKnight 8_0
+  - first:
+      213: 9001743030762050840
+    second: HeroKnight 8_1
+  - first:
+      213: -8727727216361832444
+    second: HeroKnight 8_2
+  - first:
+      213: 1050734447085189251
+    second: HeroKnight 8_3
+  - first:
+      213: -3538270094211105137
+    second: HeroKnight 8_4
+  - first:
+      213: -2503794660743689993
+    second: HeroKnight 8_5
+  - first:
+      213: -2217272142788405052
+    second: HeroKnight 8_6
+  - first:
+      213: -6363279156055675550
+    second: HeroKnight 8_7
+  - first:
+      213: -2236882170848688567
+    second: HeroKnight 8_8
+  - first:
+      213: -3152017259858347935
+    second: HeroKnight 8_9
+  - first:
+      213: 7626952948445301624
+    second: HeroKnight 8_10
+  - first:
+      213: 3492849995936125716
+    second: HeroKnight 8_11
+  - first:
+      213: 5910454330585802985
+    second: HeroKnight 8_12
+  - first:
+      213: 6213718512091278099
+    second: HeroKnight 8_13
+  - first:
+      213: 2804379211442250191
+    second: HeroKnight 8_14
+  - first:
+      213: -2575297079571250139
+    second: HeroKnight 8_15
+  - first:
+      213: -1475183130471408715
+    second: HeroKnight 8_16
+  - first:
+      213: 4711539024113287017
+    second: HeroKnight 8_17
+  - first:
+      213: -7124052419899078877
+    second: HeroKnight 8_18
+  - first:
+      213: -6049160249972735494
+    second: HeroKnight 8_19
+  - first:
+      213: 6003335118414808103
+    second: HeroKnight 8_20
+  - first:
+      213: 5579748498688387249
+    second: HeroKnight 8_21
+  - first:
+      213: 7336418258759309204
+    second: HeroKnight 8_22
+  - first:
+      213: 8915707112122380111
+    second: HeroKnight 8_23
+  - first:
+      213: 2557593021888453152
+    second: HeroKnight 8_24
+  - first:
+      213: 6625667262728586875
+    second: HeroKnight 8_25
+  - first:
+      213: -2328889185018582718
+    second: HeroKnight 8_26
+  - first:
+      213: 3232890735039666540
+    second: HeroKnight 8_27
+  - first:
+      213: -5913672439151147049
+    second: HeroKnight 8_28
+  - first:
+      213: 5482564970493662843
+    second: HeroKnight 8_29
+  - first:
+      213: -5413522134927674636
+    second: HeroKnight 8_30
+  - first:
+      213: 6694940051023607452
+    second: HeroKnight 8_31
+  - first:
+      213: 8439808381584419428
+    second: HeroKnight 8_32
+  - first:
+      213: -4356047087175562482
+    second: HeroKnight 8_33
+  - first:
+      213: 8789115903375834081
+    second: HeroKnight 8_34
+  - first:
+      213: -5264522375735921729
+    second: HeroKnight 8_35
+  - first:
+      213: -737347679695085666
+    second: HeroKnight 8_36
+  - first:
+      213: 5140845279796627649
+    second: HeroKnight 8_37
+  - first:
+      213: 5102572107680775185
+    second: HeroKnight 8_38
+  - first:
+      213: 64813187944925640
+    second: HeroKnight 8_39
+  - first:
+      213: 434220892607785504
+    second: HeroKnight 8_40
+  - first:
+      213: -7887141422434332241
+    second: HeroKnight 8_41
+  - first:
+      213: 9084230288764194286
+    second: HeroKnight 8_42
+  - first:
+      213: 6204809681604412734
+    second: HeroKnight 8_43
+  - first:
+      213: 3863950901760894946
+    second: HeroKnight 8_44
+  - first:
+      213: 3449563188300997429
+    second: HeroKnight 8_45
+  - first:
+      213: 3881002638989327272
+    second: HeroKnight 8_46
+  - first:
+      213: -6667446995295662384
+    second: HeroKnight 8_47
+  - first:
+      213: -3376732544332631288
+    second: HeroKnight 8_48
+  - first:
+      213: 7951030911438504833
+    second: HeroKnight 8_49
+  - first:
+      213: -1204204170657960867
+    second: HeroKnight 8_50
+  - first:
+      213: -6691108647977843139
+    second: HeroKnight 8_51
+  - first:
+      213: 6429455699858909017
+    second: HeroKnight 8_52
+  - first:
+      213: 8669042021764690755
+    second: HeroKnight 8_53
+  - first:
+      213: 4043789880549698659
+    second: HeroKnight 8_54
+  - first:
+      213: -3425095873715986701
+    second: HeroKnight 8_55
+  - first:
+      213: -3003644446325562340
+    second: HeroKnight 8_56
+  - first:
+      213: -4961148694624675144
+    second: HeroKnight 8_57
+  - first:
+      213: -6277260528943098975
+    second: HeroKnight 8_58
+  - first:
+      213: 3461951378834712527
+    second: HeroKnight 8_59
+  - first:
+      213: 840293653265489713
+    second: HeroKnight 8_60
+  - first:
+      213: -4705460324283676973
+    second: HeroKnight 8_61
+  - first:
+      213: -1635422203231328535
+    second: HeroKnight 8_62
+  - first:
+      213: 3208860569618626232
+    second: HeroKnight 8_63
+  - first:
+      213: 5187733565449222
+    second: HeroKnight 8_64
+  - first:
+      213: 1010546223228313616
+    second: HeroKnight 8_65
+  - first:
+      213: -2585621941612527110
+    second: HeroKnight 8_66
+  - first:
+      213: -6973474376489791933
+    second: HeroKnight 8_67
+  - first:
+      213: 3412498513721240784
+    second: HeroKnight 8_68
+  - first:
+      213: 4268591107013367536
+    second: HeroKnight 8_69
+  - first:
+      213: -6661180858556789192
+    second: HeroKnight 8_70
+  - first:
+      213: 8323477793358091978
+    second: HeroKnight 8_71
+  - first:
+      213: -6361540448551611556
+    second: HeroKnight 8_72
+  - first:
+      213: -5888395296948981273
+    second: HeroKnight 8_73
+  - first:
+      213: 7400856545325282037
+    second: HeroKnight 8_74
+  - first:
+      213: -2640206193813793097
+    second: HeroKnight 8_75
+  - first:
+      213: 2729760840612853191
+    second: HeroKnight 8_76
+  - first:
+      213: 7490217760278078714
+    second: HeroKnight 8_77
+  - first:
+      213: 8799947666617921594
+    second: HeroKnight 8_78
+  - first:
+      213: -5670677613919789551
+    second: HeroKnight 8_79
+  - first:
+      213: -2376040857239225714
+    second: HeroKnight 8_80
+  - first:
+      213: -3110780942310808754
+    second: HeroKnight 8_81
+  - first:
+      213: -5319644356456027251
+    second: HeroKnight 8_82
+  - first:
+      213: -7678845193152781604
+    second: HeroKnight 8_83
+  - first:
+      213: 4822014583063345030
+    second: HeroKnight 8_84
+  - first:
+      213: -7013947754458888865
+    second: HeroKnight 8_85
+  - first:
+      213: 1429315137235379313
+    second: HeroKnight 8_86
+  - first:
+      213: 1140201557754650732
+    second: HeroKnight 8_87
+  - first:
+      213: -7461514001072166171
+    second: HeroKnight 8_88
+  - first:
+      213: 20584905711574997
+    second: HeroKnight 8_89
+  - first:
+      213: 2833853605785501950
+    second: HeroKnight 8_90
+  - first:
+      213: -4326168801848704837
+    second: HeroKnight 8_91
+  - first:
+      213: 6276420062796746932
+    second: HeroKnight 8_92
+  - first:
+      213: 2526834333838094200
+    second: HeroKnight 8_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroKnight 8_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896aff5b59167910800000000000000
+      internalID: 1834681778443020682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 441
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8159bebd79d9cec70800000000000000
+      internalID: 9001743030762050840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 441
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4008e349652e0e680800000000000000
+      internalID: -8727727216361832444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 441
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38877cf9965f49e00800000000000000
+      internalID: 1050734447085189251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 441
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb82b881a85eec0800000000000000
+      internalID: -3538270094211105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 441
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84adf850cb04dd0800000000000000
+      internalID: -2503794660743689993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 441
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c85ab6dbbaaa31e0800000000000000
+      internalID: -2217272142788405052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 441
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d67a8525711b7a0800000000000000
+      internalID: -6363279156055675550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 441
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c822648ff4f0e0800000000000000
+      internalID: -2236882170848688567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_9
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 441
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683e349009c144d0800000000000000
+      internalID: -3152017259858347935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 386
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b43ba1c4168d960800000000000000
+      internalID: 7626952948445301624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 386
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4135f7db098197030800000000000000
+      internalID: 3492849995936125716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 386
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86cb316e6260250800000000000000
+      internalID: 5910454330585802985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 386
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2877a0109b3650800000000000000
+      internalID: 6213718512091278099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 386
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16189d8082be620800000000000000
+      internalID: 2804379211442250191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 386
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5240e0d53f4b24cd0800000000000000
+      internalID: -2575297079571250139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 386
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5a9932c8178be0800000000000000
+      internalID: -1475183130471408715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 386
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fb9a597cfb26140800000000000000
+      internalID: 4711539024113287017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 386
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32747a6a118422d90800000000000000
+      internalID: -7124052419899078877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_19
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 386
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af146fe6dc01d0ca0800000000000000
+      internalID: -6049160249972735494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 331
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240eb0bb71205350800000000000000
+      internalID: 6003335118414808103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 340
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8275062bf3f6d40800000000000000
+      internalID: 5579748498688387249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 331
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d90d498130d560800000000000000
+      internalID: 7336418258759309204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 331
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6a7b8164fabb70800000000000000
+      internalID: 8915707112122380111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 331
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02addad7d456e7320800000000000000
+      internalID: 2557593021888453152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 331
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b764fda654913fb50800000000000000
+      internalID: 6625667262728586875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 331
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249e7bd00af1eafd0800000000000000
+      internalID: -2328889185018582718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 350
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69d0b3bef88ddc20800000000000000
+      internalID: 3232890735039666540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 331
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c062af3a6eeda0800000000000000
+      internalID: -5913672439151147049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_29
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 331
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b765644facbf51c40800000000000000
+      internalID: 5482564970493662843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 331
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2fbe3ec4e4fd4b0800000000000000
+      internalID: -5413522134927674636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_31
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 331
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c963ccd418439ec50800000000000000
+      internalID: 6694940051023607452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 276
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a24bcc109302570800000000000000
+      internalID: 8439808381584419428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 276
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b8608e0463c83c0800000000000000
+      internalID: -4356047087175562482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 276
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf37ee85639f970800000000000000
+      internalID: 8789115903375834081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 281
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb33a2abac8a0f6b0800000000000000
+      internalID: -5264522375735921729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 276
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd0d3213a64c5f0800000000000000
+      internalID: -737347679695085666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 276
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8858b6b83f75740800000000000000
+      internalID: 5140845279796627649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cf02f1c4affc640800000000000000
+      internalID: 5102572107680775185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 276
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c734404346e000800000000000000
+      internalID: 64813187944925640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 276
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa0f9e999a60600800000000000000
+      internalID: 434220892607785504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 276
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa158860aae3b8290800000000000000
+      internalID: -7887141422434332241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_42
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 276
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed42ab315ba11e70800000000000000
+      internalID: 9084230288764194286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_43
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 279
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e358feae789eb1650800000000000000
+      internalID: 6204809681604412734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 226
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e722018fd28f9530800000000000000
+      internalID: 3863950901760894946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 223
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533e1f4717f4fdf20800000000000000
+      internalID: 3449563188300997429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 223
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abff4576571cd530800000000000000
+      internalID: 3881002638989327272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 223
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de08ae88487873a0800000000000000
+      internalID: -6667446995295662384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 223
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8037d8144af6321d0800000000000000
+      internalID: -3376732544332631288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 221
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834172dc7cb75e60800000000000000
+      internalID: 7951030911438504833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 221
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c63eadfaec94fe0800000000000000
+      internalID: -1204204170657960867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_51
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 221
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d368cbbb2286423a0800000000000000
+      internalID: -6691108647977843139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_52
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 221
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9576331f4e30a3950800000000000000
+      internalID: 6429455699858909017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_53
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 221
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f73ac9cf9e4870800000000000000
+      internalID: 8669042021764690755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ceb70b87d6e1830800000000000000
+      internalID: 4043789880549698659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 166
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe9085237d9770d0800000000000000
+      internalID: -3425095873715986701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 166
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14a0314a49e056d0800000000000000
+      internalID: -3003644446325562340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_57
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 166
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bad00b2c85762bb0800000000000000
+      internalID: -4961148694624675144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 166
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a314c9aec0b2e8a0800000000000000
+      internalID: -6277260528943098975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 166
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ed15df625b0030800000000000000
+      internalID: 3461951378834712527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_60
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 166
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f97e520a259ab00800000000000000
+      internalID: 840293653265489713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 166
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6806204c8d2beb0800000000000000
+      internalID: -4705460324283676973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_62
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 166
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e62c96cb20dd49e0800000000000000
+      internalID: -1635422203231328535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_63
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 166
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b630e1dfa9288c20800000000000000
+      internalID: 3208860569618626232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 102
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ab58573e621000800000000000000
+      internalID: 5187733565449222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e2a89f6e260e00800000000000000
+      internalID: 1010546223228313616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_66
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 111
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1cab61b860e1cd0800000000000000
+      internalID: -2585621941612527110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e890b600e393f90800000000000000
+      internalID: -6973474376489791933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 111
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc27ea6151ab5f20800000000000000
+      internalID: 3412498513721240784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 111
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65ce0fef41d3b30800000000000000
+      internalID: 4268591107013367536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 111
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e47153d4bbe83a0800000000000000
+      internalID: -6661180858556789192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_71
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 111
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac616f014fee28370800000000000000
+      internalID: 8323477793358091978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_72
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 111
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535dcbbaa447b7a0800000000000000
+      internalID: -6361540448551611556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_73
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 111
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1764ceca7384ea0800000000000000
+      internalID: -5888395296948981273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2fcb901df15b660800000000000000
+      internalID: 7400856545325282037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b651f3847a1c5bd0800000000000000
+      internalID: -2640206193813793097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 56
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5308a850f02e520800000000000000
+      internalID: 2729760840612853191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 56
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af462bb3e5992f760800000000000000
+      internalID: 7490217760278078714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_78
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 56
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f9c657c1bf1a70800000000000000
+      internalID: 8799947666617921594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 56
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e1d8231c4bd41b0800000000000000
+      internalID: -5670677613919789551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_80
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 56
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8af07cdd6b960fd0800000000000000
+      internalID: -2376040857239225714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_81
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43628fe63944d4d0800000000000000
+      internalID: -3110780942310808754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_82
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 56
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be60a74a3dc26b0800000000000000
+      internalID: -5319644356456027251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_83
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 56
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a9e82bf24f6590800000000000000
+      internalID: -7678845193152781604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877e3517bc3be240800000000000000
+      internalID: 4822014583063345030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f554456cda379ae90800000000000000
+      internalID: -7013947754458888865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_86
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174e0036b82f5d310800000000000000
+      internalID: 1429315137235379313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602056964fc2df00800000000000000
+      internalID: 1140201557754650732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea6d7f7c80637890800000000000000
+      internalID: -7461514001072166171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_89
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5ca8dcd1294000800000000000000
+      internalID: 20584905711574997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00e4e07ded35720800000000000000
+      internalID: 2833853605785501950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_91
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04e6f456c56f3c0800000000000000
+      internalID: -4326168801848704837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_92
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b092201bc25a1750800000000000000
+      internalID: 6276420062796746932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroKnight 8_93
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2eaa507e111320800000000000000
+      internalID: 2526834333838094200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroKnight 8_0: 1834681778443020682
+      HeroKnight 8_1: 9001743030762050840
+      HeroKnight 8_10: 7626952948445301624
+      HeroKnight 8_11: 3492849995936125716
+      HeroKnight 8_12: 5910454330585802985
+      HeroKnight 8_13: 6213718512091278099
+      HeroKnight 8_14: 2804379211442250191
+      HeroKnight 8_15: -2575297079571250139
+      HeroKnight 8_16: -1475183130471408715
+      HeroKnight 8_17: 4711539024113287017
+      HeroKnight 8_18: -7124052419899078877
+      HeroKnight 8_19: -6049160249972735494
+      HeroKnight 8_2: -8727727216361832444
+      HeroKnight 8_20: 6003335118414808103
+      HeroKnight 8_21: 5579748498688387249
+      HeroKnight 8_22: 7336418258759309204
+      HeroKnight 8_23: 8915707112122380111
+      HeroKnight 8_24: 2557593021888453152
+      HeroKnight 8_25: 6625667262728586875
+      HeroKnight 8_26: -2328889185018582718
+      HeroKnight 8_27: 3232890735039666540
+      HeroKnight 8_28: -5913672439151147049
+      HeroKnight 8_29: 5482564970493662843
+      HeroKnight 8_3: 1050734447085189251
+      HeroKnight 8_30: -5413522134927674636
+      HeroKnight 8_31: 6694940051023607452
+      HeroKnight 8_32: 8439808381584419428
+      HeroKnight 8_33: -4356047087175562482
+      HeroKnight 8_34: 8789115903375834081
+      HeroKnight 8_35: -5264522375735921729
+      HeroKnight 8_36: -737347679695085666
+      HeroKnight 8_37: 5140845279796627649
+      HeroKnight 8_38: 5102572107680775185
+      HeroKnight 8_39: 64813187944925640
+      HeroKnight 8_4: -3538270094211105137
+      HeroKnight 8_40: 434220892607785504
+      HeroKnight 8_41: -7887141422434332241
+      HeroKnight 8_42: 9084230288764194286
+      HeroKnight 8_43: 6204809681604412734
+      HeroKnight 8_44: 3863950901760894946
+      HeroKnight 8_45: 3449563188300997429
+      HeroKnight 8_46: 3881002638989327272
+      HeroKnight 8_47: -6667446995295662384
+      HeroKnight 8_48: -3376732544332631288
+      HeroKnight 8_49: 7951030911438504833
+      HeroKnight 8_5: -2503794660743689993
+      HeroKnight 8_50: -1204204170657960867
+      HeroKnight 8_51: -6691108647977843139
+      HeroKnight 8_52: 6429455699858909017
+      HeroKnight 8_53: 8669042021764690755
+      HeroKnight 8_54: 4043789880549698659
+      HeroKnight 8_55: -3425095873715986701
+      HeroKnight 8_56: -3003644446325562340
+      HeroKnight 8_57: -4961148694624675144
+      HeroKnight 8_58: -6277260528943098975
+      HeroKnight 8_59: 3461951378834712527
+      HeroKnight 8_6: -2217272142788405052
+      HeroKnight 8_60: 840293653265489713
+      HeroKnight 8_61: -4705460324283676973
+      HeroKnight 8_62: -1635422203231328535
+      HeroKnight 8_63: 3208860569618626232
+      HeroKnight 8_64: 5187733565449222
+      HeroKnight 8_65: 1010546223228313616
+      HeroKnight 8_66: -2585621941612527110
+      HeroKnight 8_67: -6973474376489791933
+      HeroKnight 8_68: 3412498513721240784
+      HeroKnight 8_69: 4268591107013367536
+      HeroKnight 8_7: -6363279156055675550
+      HeroKnight 8_70: -6661180858556789192
+      HeroKnight 8_71: 8323477793358091978
+      HeroKnight 8_72: -6361540448551611556
+      HeroKnight 8_73: -5888395296948981273
+      HeroKnight 8_74: 7400856545325282037
+      HeroKnight 8_75: -2640206193813793097
+      HeroKnight 8_76: 2729760840612853191
+      HeroKnight 8_77: 7490217760278078714
+      HeroKnight 8_78: 8799947666617921594
+      HeroKnight 8_79: -5670677613919789551
+      HeroKnight 8_8: -2236882170848688567
+      HeroKnight 8_80: -2376040857239225714
+      HeroKnight 8_81: -3110780942310808754
+      HeroKnight 8_82: -5319644356456027251
+      HeroKnight 8_83: -7678845193152781604
+      HeroKnight 8_84: 4822014583063345030
+      HeroKnight 8_85: -7013947754458888865
+      HeroKnight 8_86: 1429315137235379313
+      HeroKnight 8_87: 1140201557754650732
+      HeroKnight 8_88: -7461514001072166171
+      HeroKnight 8_89: 20584905711574997
+      HeroKnight 8_9: -3152017259858347935
+      HeroKnight 8_90: 2833853605785501950
+      HeroKnight 8_91: -4326168801848704837
+      HeroKnight 8_92: 6276420062796746932
+      HeroKnight 8_93: 2526834333838094200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

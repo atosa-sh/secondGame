@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public Animator animator;
     public Rigidbody2D rb;
     public float jumpHight = 5f;
     private float movement = 0f;
@@ -31,9 +32,17 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0f, 0f, 0f);
             facingRight = true;
         }
-        if (Input.GetKey(KeyCode.Space) && isGround){
+        if (Input.GetKey(KeyCode.Space) && isGround)
+        {
             Jump();
             isGround = false;
+        }
+        if (Mathf.Abs(movement) > .1f)
+        {
+            animator.SetFloat("Run", 1f);
+        }else if(movement < .1f)
+        {
+            animator.SetFloat("Run", 0f);
         }
     }
 
