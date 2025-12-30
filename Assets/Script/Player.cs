@@ -36,6 +36,7 @@ public class Player : MonoBehaviour
         {
             Jump();
             isGround = false;
+            animator.SetBool("Jump", true);
         }
         if (Mathf.Abs(movement) > .1f)
         {
@@ -64,6 +65,7 @@ public class Player : MonoBehaviour
         {
             isGround = true;
             Debug.Log(collision.gameObject.name);
+            animator.SetBool("Jump", false);
         }
         
 
