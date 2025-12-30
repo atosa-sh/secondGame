@@ -44,6 +44,11 @@ public class Player : MonoBehaviour
         }else if(movement < .1f)
         {
             animator.SetFloat("Run", 0f);
+
+
+        } if (Input.GetKeyDown(KeyCode.W))
+        {
+            animator.SetTrigger("Attack");
         }
     }
 
