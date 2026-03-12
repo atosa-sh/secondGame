@@ -7,46 +7,70 @@ public class PatrolEnemy : MonoBehaviour
     public Transform checkPoint;
     public float distance = 1f;
     public LayerMask layerMask;
+    public bool inRange = false;
+    public Transform player;
+    public float attackRange = 10f;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector2.left * Time.deltaTime * moveSpeed);
-
-        RaycastHit2D hit = Physics2D.Raycast(checkPoint.position, Vector2.down, distance, layerMask);
-
-        if (hit == false && facingLeft)
+          if (Vector2.Distance(transform.position, player.position) <= attackRange)
         {
-            transform.eulerAngles = new Vector3(0, -180, 0);
-            facingLeft = false;
-            Debug.Log("Flip");
+            inRange = true;
 
-        }else if(hit == false && facingLeft == false)
-        {
-            transform.eulerAngles = new Vector3(0, 0, 0);
-            facingLeft = true;
-            Debug.Log("Flip");
         }
+        else
         {
+            inRange = false;
             
         }
+        if (inRange)
+        {
+            Debug.Log("Chase Player");
 
+        }
+        else
+        {
+            transform.Translate(Vector2.left * Time.deltaTime * moveSpeed);
+            RaycastHit2D hit = Physics2D.Raycast(checkPoint.position, Vector2.down, distance, layerMask);
 
+            if (hit == false && facingLeft)
+            {
+                transform.eulerAngles = new Vector3(0, -180, 0);
+                facingLeft = false;
+                Debug.Log("Flip");
+
+            }
+            else if (hit == false && facingLeft == false)
+            {
+                transform.eulerAngles = new Vector3(0, 0, 0);
+                facingLeft = true;
+                Debug.Log("Flip");
+            }
+
+        }
+        
     }
 
     private void OnDrawGizmosSelected()
 {
-    if (checkPoint == null) return;
+        if (checkPoint == null)
+        {
+            return;
+        }
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawRay(checkPoint.position, Vector2.down * distance);
 
-    Gizmos.color = Color.yellow;
-    Gizmos.DrawRay(checkPoint.position, Vector2.down * distance);
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
 }
 
 
