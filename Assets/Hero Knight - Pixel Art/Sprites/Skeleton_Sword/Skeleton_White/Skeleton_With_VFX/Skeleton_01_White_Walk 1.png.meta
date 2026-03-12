@@ -1,34 +1,37 @@
 fileFormatVersion: 2
-guid: 5b04bffcca5b34972888baefd88d9096
+guid: 03da63de212ae4663bfba327b1f3fe84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3001571849322693173
-    second: Skeleton_01_White_Attack2_0
+      213: 3504082177370363006
+    second: Skeleton_01_White_Walk 1_0
   - first:
-      213: -2195679947365462926
-    second: Skeleton_01_White_Attack2_1
+      213: -4403184900027165049
+    second: Skeleton_01_White_Walk 1_1
   - first:
-      213: -1077799021213408231
-    second: Skeleton_01_White_Attack2_2
+      213: 160289187534511106
+    second: Skeleton_01_White_Walk 1_2
   - first:
-      213: -9019330771954829285
-    second: Skeleton_01_White_Attack2_3
+      213: 8071766754775793528
+    second: Skeleton_01_White_Walk 1_3
   - first:
-      213: 8250350366521837299
-    second: Skeleton_01_White_Attack2_4
+      213: -1836415271387870765
+    second: Skeleton_01_White_Walk 1_4
   - first:
-      213: 1103219444959790836
-    second: Skeleton_01_White_Attack2_5
+      213: -8104048871166396974
+    second: Skeleton_01_White_Walk 1_5
   - first:
-      213: 5786293737268754644
-    second: Skeleton_01_White_Attack2_6
+      213: 1974423509110663666
+    second: Skeleton_01_White_Walk 1_6
   - first:
-      213: 1762950799007343675
-    second: Skeleton_01_White_Attack2_7
+      213: -9208317506663100468
+    second: Skeleton_01_White_Walk 1_7
   - first:
-      213: 5091847479323694239
-    second: Skeleton_01_White_Attack2_8
+      213: -839101998530755966
+    second: Skeleton_01_White_Walk 1_8
+  - first:
+      213: 4038636764473398377
+    second: Skeleton_01_White_Walk 1_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -61,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -124,199 +127,221 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_0
+      name: Skeleton_01_White_Walk 1_0
       rect:
         serializedVersion: 2
-        x: 34
+        x: 35
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7410f5cc2001a030800000000000000
+      internalID: 3504082177370363006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_01_White_Walk 1_1
+      rect:
+        serializedVersion: 2
+        x: 130
         y: 0
         width: 34
-        height: 46
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53201b6a1b9b7a920800000000000000
-      internalID: 3001571849322693173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_1
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 0
-        width: 29
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27c45d898b06781e0800000000000000
-      internalID: -2195679947365462926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_2
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 0
-        width: 36
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 914af492083ea01f0800000000000000
-      internalID: -1077799021213408231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_3
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 0
-        width: 36
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b18f1e90376e4d280800000000000000
-      internalID: -9019330771954829285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_4
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 0
-        width: 61
         height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f64c0532f12f7270800000000000000
-      internalID: 8250350366521837299
+      spriteID: 786548999aeb4e2c0800000000000000
+      internalID: -4403184900027165049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_5
+      name: Skeleton_01_White_Walk 1_2
       rect:
         serializedVersion: 2
-        x: 515
+        x: 226
         y: 0
-        width: 61
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9454ba26793200800000000000000
+      internalID: 160289187534511106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_01_White_Walk 1_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff730f81da40070800000000000000
+      internalID: 8071766754775793528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_01_White_Walk 1_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 38
         height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f6c1267d3c6f4f00800000000000000
-      internalID: 1103219444959790836
+      spriteID: 3d9c2d85a0eb386e0800000000000000
+      internalID: -1836415271387870765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_6
+      name: Skeleton_01_White_Walk 1_5
       rect:
         serializedVersion: 2
-        x: 611
+        x: 510
         y: 0
-        width: 60
+        width: 41
         height: 46
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d8b8f73f7b0d4050800000000000000
-      internalID: 5786293737268754644
+      spriteID: 2d5b8bf1d72a88f80800000000000000
+      internalID: -8104048871166396974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_7
+      name: Skeleton_01_White_Walk 1_6
       rect:
         serializedVersion: 2
-        x: 708
+        x: 608
         y: 0
-        width: 45
-        height: 46
+        width: 38
+        height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b34e2534962477810800000000000000
-      internalID: 1762950799007343675
+      spriteID: 2f9a8b878bf866b10800000000000000
+      internalID: 1974423509110663666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton_01_White_Attack2_8
+      name: Skeleton_01_White_Walk 1_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc554f30c753080800000000000000
+      internalID: -9208317506663100468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_01_White_Walk 1_8
       rect:
         serializedVersion: 2
         x: 802
         y: 0
-        width: 34
-        height: 46
+        width: 35
+        height: 49
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f949e8ffd40e9a640800000000000000
-      internalID: 5091847479323694239
+      spriteID: 28201479d29ea54f0800000000000000
+      internalID: -839101998530755966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_01_White_Walk 1_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964154b5dbe1c0830800000000000000
+      internalID: 4038636764473398377
       vertices: []
       indices: 
       edges: []
@@ -325,7 +350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 56f77ca66be944d36863fb24e6e11740
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -333,19 +358,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Skeleton_01_White_Attack2_0: 3001571849322693173
-      Skeleton_01_White_Attack2_1: -2195679947365462926
-      Skeleton_01_White_Attack2_2: -1077799021213408231
-      Skeleton_01_White_Attack2_3: -9019330771954829285
-      Skeleton_01_White_Attack2_4: 8250350366521837299
-      Skeleton_01_White_Attack2_5: 1103219444959790836
-      Skeleton_01_White_Attack2_6: 5786293737268754644
-      Skeleton_01_White_Attack2_7: 1762950799007343675
-      Skeleton_01_White_Attack2_8: 5091847479323694239
+      Skeleton_01_White_Walk 1_0: 3504082177370363006
+      Skeleton_01_White_Walk 1_1: -4403184900027165049
+      Skeleton_01_White_Walk 1_2: 160289187534511106
+      Skeleton_01_White_Walk 1_3: 8071766754775793528
+      Skeleton_01_White_Walk 1_4: -1836415271387870765
+      Skeleton_01_White_Walk 1_5: -8104048871166396974
+      Skeleton_01_White_Walk 1_6: 1974423509110663666
+      Skeleton_01_White_Walk 1_7: -9208317506663100468
+      Skeleton_01_White_Walk 1_8: -839101998530755966
+      Skeleton_01_White_Walk 1_9: 4038636764473398377
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
