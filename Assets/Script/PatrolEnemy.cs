@@ -10,6 +10,9 @@ public class PatrolEnemy : MonoBehaviour
     public bool inRange = false;
     public Transform player;
     public float attackRange = 10f;
+    public float retrieveDistance = 2.5f;
+    public float chaseSpeed;
+    public Animator animator;
 
 
 
@@ -34,7 +37,18 @@ public class PatrolEnemy : MonoBehaviour
         }
         if (inRange)
         {
-            Debug.Log("Chase Player");
+            if (Vector2.Distance(transform.position, player.position) > retrieveDistance)
+            {
+                animator.SetBool("Attack1", false);
+                transform.position = Vector2.MoveTowards(transform.position, player.position, chaseSpeed * Time.deltaTime);
+                Debug.Log("Chase Player");
+            }
+            else
+            {
+                animator.SetBool("Attack1", true);
+
+                Debug.Log("Attack");
+            }
 
         }
         else
