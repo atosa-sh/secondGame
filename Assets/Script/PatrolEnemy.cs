@@ -37,6 +37,15 @@ public class PatrolEnemy : MonoBehaviour
         }
         if (inRange)
         {
+            if(player.position.x > transform.position.x && facingLeft == true)
+            {
+                transform.eulerAngles = new Vector3(0, -180, 0);
+                facingLeft = false;
+            }else if (player.position.x < transform.position.x && facingLeft == false)
+            {
+                transform.eulerAngles = new Vector3(0, 0, 0);
+                facingLeft = true;
+            }
             if (Vector2.Distance(transform.position, player.position) > retrieveDistance)
             {
                 animator.SetBool("Attack1", false);

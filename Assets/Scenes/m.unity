@@ -8586,6 +8586,10 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 586040668}
+    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
+      propertyPath: jumpHight
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 5466876668503954438, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
       propertyPath: m_SortingLayer
       value: 0
