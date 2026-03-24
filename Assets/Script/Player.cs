@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public int maxHealth = 3;
     public Animator animator;
     public Rigidbody2D rb;
     public float jumpHight = 5f;
@@ -20,6 +21,12 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if(maxHealth <= 0)
+        {
+            Die();
+            
+        }
         movement = Input.GetAxis("Horizontal");
 
         if (movement < 0f && facingRight)
@@ -66,13 +73,26 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Ground")
+        if (collision.gameObject.tag == "Ground")
         {
             isGround = true;
             Debug.Log(collision.gameObject.name);
             animator.SetBool("Jump", false);
         }
-        
 
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (maxHealth <= 0)
+        {
+            return;
+        }
+        maxHealth -= damage;
+    }
+
+    void Die()
+    {
+        Debug.Log("Player Died");
     }
 }

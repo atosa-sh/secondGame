@@ -92,8 +92,13 @@ public class PatrolEnemy : MonoBehaviour
     public void attack()
     {
         Collider2D collInfo = Physics2D.OverlapCircle(attackPoint.position, attackRadius, attackLayer);
+        
         if (collInfo)
         {
+            if(collInfo.gameObject.GetComponent<Player>() != null)
+            {
+               // collInfo.gameObject
+            }
             Debug.Log(collInfo.transform.name);
         }
     }
