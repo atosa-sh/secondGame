@@ -8134,11 +8134,6 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
---- !u!95 &586040668 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 6696779429423101022, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
-  m_PrefabInstance: {fileID: 2014459425}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &586040673 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 448538292540187699, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
@@ -8190,11 +8185,6 @@ Transform:
   - {fileID: 2036172483}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1210959281 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 3353144526856941124, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
-  m_PrefabInstance: {fileID: 6526576540082397796}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1247762661
 GameObject:
   m_ObjectHideFlags: 0
@@ -8580,22 +8570,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 448538292540187699, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
-      propertyPath: animator
-      value: 
-      objectReference: {fileID: 586040668}
-    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
-      propertyPath: jumpHight
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 5466876668503954438, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
-      propertyPath: m_SortingLayer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5466876668503954438, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
-      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6276041322265340570, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
@@ -9059,12 +9033,8 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 586040673}
     - target: {fileID: 2384712641426505437, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
-      propertyPath: animator
-      value: 
-      objectReference: {fileID: 1210959281}
-    - target: {fileID: 2384712641426505437, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
-      propertyPath: chaseSpeed
-      value: 4
+      propertyPath: attackRadius
+      value: 1.25
       objectReference: {fileID: 0}
     - target: {fileID: 7205127477704928409, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
       propertyPath: m_Name

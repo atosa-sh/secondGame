@@ -14,6 +14,10 @@ public class PatrolEnemy : MonoBehaviour
     public float chaseSpeed;
     public Animator animator;
 
+    public Transform attackPoint;
+    public float attackRadius = 1f;
+    public LayerMask attackLayer;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -25,7 +29,7 @@ public class PatrolEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-          if (Vector2.Distance(transform.position, player.position) <= attackRange)
+        if (Vector2.Distance(transform.position, player.position) <= attackRange)
         {
             inRange = true;
 
@@ -33,15 +37,16 @@ public class PatrolEnemy : MonoBehaviour
         else
         {
             inRange = false;
-            
+
         }
         if (inRange)
         {
-            if(player.position.x > transform.position.x && facingLeft == true)
+            if (player.position.x > transform.position.x && facingLeft == true)
             {
                 transform.eulerAngles = new Vector3(0, -180, 0);
                 facingLeft = false;
-            }else if (player.position.x < transform.position.x && facingLeft == false)
+            }
+            else if (player.position.x < transform.position.x && facingLeft == false)
             {
                 transform.eulerAngles = new Vector3(0, 0, 0);
                 facingLeft = true;
@@ -80,7 +85,17 @@ public class PatrolEnemy : MonoBehaviour
             }
 
         }
-        
+
+    }
+    
+
+    public void attack()
+    {
+        Collider2D collInfo = Physics2D.OverlapCircle(attackPoint.position, attackRadius, attackLayer);
+        if (collInfo)
+        {
+            Debug.Log(collInfo.transform.name);
+        }
     }
 
     private void OnDrawGizmosSelected()
@@ -94,6 +109,11 @@ public class PatrolEnemy : MonoBehaviour
 
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+
+
+        if (attackPoint == null) return;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
 }
 
 
