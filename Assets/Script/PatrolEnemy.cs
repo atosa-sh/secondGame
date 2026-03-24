@@ -101,7 +101,6 @@ public class PatrolEnemy : MonoBehaviour
                 
 
             }
-            Debug.Log(collInfo.transform.name);
         }
     }
 

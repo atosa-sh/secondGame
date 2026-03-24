@@ -8173,7 +8173,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1129.1746, y: -584.88403}
+  m_AnchoredPosition: {x: 271, y: -147}
   m_SizeDelta: {x: 498.349, y: 119.768}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &817093390
@@ -8377,7 +8377,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1401, y: -584.88403}
+  m_AnchoredPosition: {x: 542.82556, y: -147.00003}
   m_SizeDelta: {x: 498.349, y: 119.768}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1009412711
@@ -8771,6 +8771,37 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1539198869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1539198870}
+  m_Layer: 7
+  m_Name: AttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1539198870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539198869}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.35, y: 0.8, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 586040673}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1837792595
 GameObject:
   m_ObjectHideFlags: 0
@@ -8918,13 +8949,24 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 1009412711}
+    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 1539198870}
+    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
+      propertyPath: attackLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
     - target: {fileID: 6276041322265340570, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 448538292540187699, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1539198870}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
 --- !u!1 &2036172482
@@ -9385,6 +9427,10 @@ PrefabInstance:
     - target: {fileID: 7205127477704928409, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
       propertyPath: m_Name
       value: PartolEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205127477704928409, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8981726730348190829, guid: 244be49271b6140fb9e7e7f8e3dee71c, type: 3}
       propertyPath: m_LocalPosition.x

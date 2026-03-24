@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class Player : MonoBehaviour
@@ -15,6 +16,13 @@ public class Player : MonoBehaviour
     private bool facingRight = true;
 
 
+    public Transform attackPoint;
+    public float attackRadius = 1f;
+    public LayerMask attackLayer;
+
+
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,10 +36,9 @@ public class Player : MonoBehaviour
         if (maxHealth <= 0)
         {
             Die();
-
         }
+        healthText.text = maxHealth.ToString();
 
-       // healthText.text = maxHealth;
         movement = Input.GetAxis("Horizontal");
 
         if (movement < 0f && facingRight)
@@ -86,6 +93,28 @@ public class Player : MonoBehaviour
         }
 
     }
+
+    public void attack()
+    {
+
+        Collider2D collInfo = Physics2D.OverlapCircle(attackPoint.position, attackRadius, attackLayer);
+        
+        if (collInfo)
+        {
+            Debug.Log(collInfo.gameObject.name + "takes damage");
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null)
+        {
+            return;
+        }
+        Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
+    }
+    
+
 
     public void TakeDamage(int damage)
     {

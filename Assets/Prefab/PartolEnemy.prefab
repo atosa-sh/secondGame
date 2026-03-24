@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 8041950906714015965}
   - component: {fileID: 2384712641426505437}
   - component: {fileID: 3353144526856941124}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PartolEnemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -226,7 +226,7 @@ MonoBehaviour:
   chaseSpeed: 4
   animator: {fileID: 3353144526856941124}
   attackPoint: {fileID: 7630679044919070280}
-  attackRadius: 1
+  attackRadius: 1.25
   attackLayer:
     serializedVersion: 2
     m_Bits: 128
