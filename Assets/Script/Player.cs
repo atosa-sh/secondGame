@@ -101,7 +101,12 @@ public class Player : MonoBehaviour
         
         if (collInfo)
         {
-            Debug.Log(collInfo.gameObject.name + "takes damage");
+            if (collInfo.gameObject.GetComponent<PatrolEnemy>() != null)
+            {
+                collInfo.gameObject.GetComponent<PatrolEnemy>().TakeDamage(1);
+
+
+            }
         }
     }
 

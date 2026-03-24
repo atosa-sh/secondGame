@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PatrolEnemy : MonoBehaviour
 {
+    public int Maxhealth = 5;
     public bool facingLeft = true;
     public float moveSpeed = 2f;
     public Transform checkPoint;
@@ -29,6 +30,12 @@ public class PatrolEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(Maxhealth <= 0)
+        {
+            Die();
+        }
+
+
         if (Vector2.Distance(transform.position, player.position) <= attackRange)
         {
             inRange = true;
@@ -87,21 +94,26 @@ public class PatrolEnemy : MonoBehaviour
         }
 
     }
-    
+
 
     public void attack()
     {
         Collider2D collInfo = Physics2D.OverlapCircle(attackPoint.position, attackRadius, attackLayer);
-        
+
         if (collInfo)
         {
-            if(collInfo.gameObject.GetComponent<Player>() != null)
+            if (collInfo.gameObject.GetComponent<Player>() != null)
             {
                 collInfo.gameObject.GetComponent<Player>().TakeDamage(1);
-                
+
 
             }
         }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        Maxhealth -= damage;
     }
 
     private void OnDrawGizmosSelected()
@@ -122,7 +134,11 @@ public class PatrolEnemy : MonoBehaviour
         Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
 }
 
-
+void Die()
+    {
+        Debug.Log(this.transform.name + "Died");
+        Destroy(this.gameObject);
+    }
 
 
 }
