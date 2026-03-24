@@ -1,8 +1,11 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
     public int maxHealth = 3;
+    public Text healthText;
+
     public Animator animator;
     public Rigidbody2D rb;
     public float jumpHight = 5f;
@@ -22,11 +25,13 @@ public class Player : MonoBehaviour
     void Update()
     {
 
-        if(maxHealth <= 0)
+        if (maxHealth <= 0)
         {
             Die();
-            
+
         }
+
+       // healthText.text = maxHealth;
         movement = Input.GetAxis("Horizontal");
 
         if (movement < 0f && facingRight)
