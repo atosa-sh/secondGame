@@ -30,6 +30,10 @@ public class PatrolEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(FindObjectOfType<GameManager>().isGameActive == false)
+        {
+            return;
+        }
         if(Maxhealth <= 0)
         {
             Die();

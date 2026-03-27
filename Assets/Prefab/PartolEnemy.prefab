@@ -212,6 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6013fed4402b4f8291ffce38091d18e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  Maxhealth: 2
   facingLeft: 1
   moveSpeed: 2
   checkPoint: {fileID: 4065371849391583534}

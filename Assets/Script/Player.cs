@@ -35,6 +35,7 @@ public class Player : MonoBehaviour
 
         if (maxHealth <= 0)
         {
+            
             Die();
         }
         healthText.text = maxHealth.ToString();
@@ -132,6 +133,8 @@ public class Player : MonoBehaviour
 
     void Die()
     {
+
         Debug.Log("Player Died");
+        FindObjectOfType<GameManager>().isGameActive = false;
     }
 }
