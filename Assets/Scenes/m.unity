@@ -9077,6 +9077,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
+      propertyPath: CoinText
+      value: 
+      objectReference: {fileID: 1184899564}
+    - target: {fileID: 1525514688374511668, guid: f38ba68e6c9084820afad41ff7a701b3, type: 3}
       propertyPath: maxHealth
       value: 3
       objectReference: {fileID: 0}
