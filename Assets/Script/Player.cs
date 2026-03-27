@@ -1,9 +1,11 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
+    public int currentCoin = 0;
     public int maxHealth = 3;
     public Text healthText;
 
@@ -131,10 +133,20 @@ public class Player : MonoBehaviour
         maxHealth -= damage;
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.gameObject.tag == "Coinn")
+        {
+            currentCoin++;
+
+        }
+        
+    }
     void Die()
     {
 
         Debug.Log("Player Died");
         FindObjectOfType<GameManager>().isGameActive = false;
+        Destroy(this.gameObject);
     }
 }
