@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
+    public GameObject gameOverUI;
     public Text CoinText;
     public int currentCoin = 0;
     public int maxHealth = 3;
@@ -160,5 +161,6 @@ public class Player : MonoBehaviour
         Debug.Log("Player Died");
         FindObjectOfType<GameManager>().isGameActive = false;
         Destroy(this.gameObject);
+        gameOverUI.SetActive(true);
     }
 }
