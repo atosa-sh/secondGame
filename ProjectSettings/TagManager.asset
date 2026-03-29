@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Coinn
+  - VictoryPoint
   layers:
   - Default
   - TransparentFX

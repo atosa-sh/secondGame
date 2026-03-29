@@ -140,11 +140,17 @@ public class Player : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Coinn")
+        if (other.gameObject.tag == "Coinn")
         {
             currentCoin++;
             other.gameObject.transform.GetChild(0).GetComponent<Animator>().SetTrigger("Collected");
             Destroy(other.gameObject, 1f);
+        }
+        
+        if (other.gameObject.tag == "VictoryPont")
+        {
+            FindObjectOfType<SceneManagement>().LoadLevel();
+            Debug.Log("Victory");
         }
         
     }
