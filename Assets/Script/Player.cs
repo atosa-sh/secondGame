@@ -77,6 +77,7 @@ public class Player : MonoBehaviour
         } if (Input.GetKeyDown(KeyCode.W))
         {
             animator.SetTrigger("Attack");
+            FindObjectOfType<AudioManager>().PlayAudio();
         }
     }
 
@@ -107,7 +108,7 @@ public class Player : MonoBehaviour
     {
 
         Collider2D collInfo = Physics2D.OverlapCircle(attackPoint.position, attackRadius, attackLayer);
-        
+
         if (collInfo)
         {
             if (collInfo.gameObject.GetComponent<PatrolEnemy>() != null)
@@ -117,6 +118,8 @@ public class Player : MonoBehaviour
 
             }
         }
+        
+
     }
 
     void OnDrawGizmosSelected()
