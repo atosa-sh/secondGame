@@ -147,9 +147,9 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject, 1f);
         }
         
-        if (other.gameObject.tag == "VictoryPont")
+        if (other.gameObject.tag == "VictoryPoint")
         {
-            FindObjectOfType<SceneManagement>().LoadLevel();
+           FindObjectOfType<SceneManagement>().LoadLevel();
             Debug.Log("Victory");
         }
         
